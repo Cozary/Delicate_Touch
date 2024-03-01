@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="GPL-3.0-or-later"
+issueTrackerURL="https://github.com/Cozary/delicate_touch/issues"
+
+[[mods]]
+
+modId="delicate_touch"
+version = "1.19.2-1.1.6"
+displayName="Delicate Touch"
+credits = "Thanks you for download my Mod. uwu"
+displayURL = "https://www.curseforge.com/minecraft/mc-mods/delicate-touch"
+authors="Cozary"
+description='''
+    Adds the function of being able to use "Silk Touch" without the enchantment, although mining the block slower. Focused for the early-game!
+'''
+
+[[dependencies.delicate_touch]]
+    modId="forge"
+    mandatory=true
+    versionRange="[43,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.delicate_touch]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2,1.20)"
+    ordering="NONE"
+    side="BOTH"
