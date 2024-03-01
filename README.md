@@ -10,7 +10,7 @@ The mod adds the ability to mine blocks as if you were using the "Silk Touch" En
 
 ## Contributing
 
-If you would like to contribute to the mod, you can check out the [issues page](https://github.com/Cozary/delicate-touch/issues). If you find a problem in the code or something that could be improved, you can open an issue or make a PR.
+If you would like to contribute to the mod, you can check out the [issues page](https://github.com/Cozary/Delicate_Touch/issues). If you find a problem in the code or something that could be improved, you can open an issue or make a PR.
 
 If, for some reason, you think a new feature should be added and you want to contribute to it, comment first on the [Discord channel](https://discord.com/invite/eGWSpyDyty). ^^
 
